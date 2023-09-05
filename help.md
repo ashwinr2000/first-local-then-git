@@ -9,3 +9,9 @@ Do the following
 
 - There will be a command called `git remote blah blah`
 - `git push`
+- copy paste the command generated which looks like `git push --set-upstream origin master`
+
+- From now onwards its just 3 commands
+- `git add .`
+- `git commit -m "hi"`
+- `git push`
